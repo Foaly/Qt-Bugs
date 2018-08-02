@@ -19,8 +19,6 @@ ApplicationWindow {
 
             onClicked: {
                 var globalCoordinates = someBtn.mapToItem(appWindow.contentItem, 0, 0)
-                //globalCoordinates.x = globalCoordinates.x
-                //globalCoordinates.y = appWindow.y + globalCoordinates.y + someBtn.y + someBtn.height / 2 + 1
 
                 globalCoordinates.x += appWindow.x
                 globalCoordinates.y += appWindow.y
