@@ -1,7 +1,7 @@
 QML Mouse Test
 ==============
 
-This repo is a minimal example showing an error on MacOS 10.13.6 with Qt 5.11.1
+This repo is a minimal example showing an error on MacOS 10.13.6 with Qt 5.11.1 (verified on two different machines, both with HiDPI displays)
 
 The error is related to changing the display scaling during the runtime of the application.
 
