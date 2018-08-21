@@ -1,6 +1,8 @@
 QML Mouse Test
 ==============
 
+The [bug was resolved](https://bugreports.qt.io/browse/QTBUG-69794) and is fixed in Qt 5.11.2 :)
+
 This repo is a minimal example showing an error on MacOS 10.13.6 with Qt 5.11.1 (verified on two different machines, both with HiDPI displays)
 
 The error is related to changing the display scaling during the runtime of the application.
