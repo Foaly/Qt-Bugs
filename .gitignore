@@ -1,0 +1,5 @@
+# build folders
+build-*
+
+# user files
+*.pro.user
