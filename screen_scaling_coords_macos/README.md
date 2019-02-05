@@ -1,5 +1,5 @@
-QML Mouse Test
-==============
+Screen scaling coordinates bug on MacOs
+=======================================
 
 The [bug was resolved](https://bugreports.qt.io/browse/QTBUG-69794) and is fixed in Qt 5.11.2 :)
 
