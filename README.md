@@ -1,4 +1,4 @@
 Qt Bugs
 =======
 
-This repository contains minimal examples for bugs in Qt I found.
+This repository contains minimal examples for bugs I found in Qt.

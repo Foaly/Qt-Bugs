@@ -17,16 +17,100 @@ ApplicationWindow {
         // scale: 1.5 // uncomment for second test
 
         MenuItem {
-            text: "New..."
+            text: "A..."
         }
         MenuItem {
-            text: "Open..."
+            text: "B..."
         }
         MenuItem {
-            text: "Save"
+            text: "C..."
         }
         MenuItem {
-            text: "Quite the long option..."
+            text: "D Quite the long option..."
+        }
+        MenuItem {
+            text: "E..."
+        }
+        MenuItem {
+            text: "F..."
+        }
+        MenuItem {
+            text: "G..."
+        }
+        MenuItem {
+            text: "H Quite the long option..."
+        }
+        MenuItem {
+            text: "I..."
+        }
+        MenuItem {
+            text: "J..."
+        }
+        MenuItem {
+            text: "K..."
+        }
+        MenuItem {
+            text: "L Quite the long option..."
+        }
+        MenuItem {
+            text: "M..."
+        }
+        MenuItem {
+            text: "N..."
+        }
+        MenuItem {
+            text: "O..."
+        }
+        MenuItem {
+            text: "P Quite the long option..."
+        }
+        MenuItem {
+            text: "Q..."
+        }
+        MenuItem {
+            text: "R..."
+        }
+        MenuItem {
+            text: "S..."
+        }
+        MenuItem {
+            text: "T Quite the long option..."
+        }
+        MenuItem {
+            text: "U..."
+        }
+        MenuItem {
+            text: "V..."
+        }
+        MenuItem {
+            text: "W..."
+        }
+        MenuItem {
+            text: "X Quite the long option..."
+        }
+        MenuItem {
+            text: "Y..."
+        }
+        MenuItem {
+            text: "Z..."
+        }
+        MenuItem {
+            text: "AA..."
+        }
+        MenuItem {
+            text: "AB Quite the long option..."
+        }
+        MenuItem {
+            text: "AC..."
+        }
+        MenuItem {
+            text: "AD..."
+        }
+        MenuItem {
+            text: "AE..."
+        }
+        MenuItem {
+            text: "AF Quite the long option..."
         }
     }
 

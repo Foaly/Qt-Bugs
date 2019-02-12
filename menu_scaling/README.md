@@ -1,9 +1,10 @@
 QML menu scaling bug
 ====================
 
-This repo is a minimal example showing an error on MacOS 10.13.6 with Qt 5.12.1
+This repo is a minimal example showing an error on MacOS 10.13.6 with Qt 5.12.1.
+You can find the bug here: https://bugreports.qt.io/browse/QTBUG-73687
 
-The error shows up when scaling a menu in QML which is position close to the right window edge.
+The error shows up when scaling a menu in QML which is positioned close to the right window edge.
 Scales smaller then 1 will make the menu have an undesired margin from the window edge.
 Scales larger then 1 will make the menu overlap the window edge.
 If the scale is 1 the menu behaves corretly.
