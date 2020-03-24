@@ -1,6 +1,8 @@
 QML menu scaling bug
 ====================
 
+This bug was resolved and merged as part of 5.14.3 :)
+
 This repo is a minimal example showing an error on MacOS 10.13.6 with Qt 5.12.1.
 You can find the bug here: https://bugreports.qt.io/browse/QTBUG-73687
 
