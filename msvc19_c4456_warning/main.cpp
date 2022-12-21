@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
 
     // setup the QML engine
     QQmlApplicationEngine qmlEngine;
-    const QUrl url(u"qrc:/Tester/main.qml"_qs);
+    const QUrl url(u"qrc:/MSVC_Warning_Bug/main.qml"_qs);
     QObject::connect(&qmlEngine, &QQmlApplicationEngine::objectCreated,
                      &app, [url](QObject *obj, const QUrl &objUrl) {
         if (!obj && url == objUrl)
