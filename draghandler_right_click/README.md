@@ -15,5 +15,6 @@ Steps to reproduce:
 * While dragging press and release the right mouse button
 
 
+
 * __Result:__ "Active changed!" is printed in the console 2 more times.
 * __Expected:__ `onActiveChanged` should not be triggered by mouse buttons not defined in the `acceptedButtons` property.
